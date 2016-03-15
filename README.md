@@ -11,7 +11,7 @@ text file content example :
 
 It captures the x509 cert offered by the endpoint and checks the expiry date of that endpoint
 
-###Dave Pollard, Information Security SME
+### Dave Pollard, Information Security SME
 
 ## Requirements
 
